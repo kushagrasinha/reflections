@@ -2,3 +2,9 @@ What happens when you initialize a repository? Why do you need to do it?
 a .git file is created in the directory which would contain the meta-data, hence making it a git repository
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is transitional and doesn't allow any operations to be carried out in it. Directory and repository are non transitional and allows operaions to be carried out in them.
+How can you use the staging area to make sure you have one commit per logical change?
+before commting, I can check the changes I made in the staging area and compare them with the recent commit.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Bracnhing would be helpful in cases of experimentaion.
+How do the diagrams help you visualize the branch structure?
+It gives a simplified relationship between different nodes.
